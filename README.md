@@ -11,5 +11,5 @@ Advertencia: El creador de la herramienta no se hace responsable del uso que le 
   - apt install python3
   - apt install python3-pip
 
-3. Libreria Rich Console:
+2. Libreria Rich Console:
   - pip install rich
