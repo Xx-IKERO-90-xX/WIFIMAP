@@ -1,4 +1,5 @@
 # WIFIMAP
+![image](https://github.com/Xx-IKERO-90-xX/WIFIMAP/assets/97200478/79456a5f-d198-40a1-b031-c0929f439885)
 
 WifiMap es una herramienta enfocada a los ataques a redes wifis con el objetivo de tener en mano la mayor cantidad de opciones en un solo script de una manera muy sencilla y sin necesidad de tener nociones de muchas cosas como los hackers de hoy en día.
 
