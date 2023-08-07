@@ -8,8 +8,8 @@ Una modalidad nueva de esta herramienta que aun seguimos trabajando en ella es q
 Advertencia: El creador de la herramienta no se hace responsable del uso que le deis a la herramienta ya que esta herramienta es perfecto para proteger vuestra red wifi o la de vuestra empresa y/o también para probar la seguridad de esta, y no para atacar redes wifis ajenos.
 
 1. Instalacion de Python3:
-  apt install python3
-  apt install python3-pip
+  - apt install python3
+  - apt install python3-pip
 
-2. Libreria Rich Console:
-  pip install rich
+3. Libreria Rich Console:
+  - pip install rich
